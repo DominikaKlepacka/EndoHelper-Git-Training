@@ -17,3 +17,4 @@ the name of the previous lesson instead of a more descriptive name.
 Check it out - quite literally - with `git checkout 01_commits`. You'll
 notice a local branch tracking the remote one has been created.
 
+EDITED TEST
